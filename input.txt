@@ -1,0 +1,5 @@
+29.99 31 poop
+17.99 12 dog
+14.99 24 car
+5.50 18 cat
+-1 -1 endofdata
